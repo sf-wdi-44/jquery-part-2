@@ -60,8 +60,3 @@ $("my-selector").animate({
 	console.log("I just finished!");
 });
 ```
-
-## Animation Exercise: Gettysburg Address
-
-- We will be working on a given front end to enable a few dynamic animations on the page.
-- Please refer to the project linked in Slack.
